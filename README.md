@@ -1,1 +1,2 @@
-# revision-codigo-uschavez
+Ejercicio de Revisión de código
+Uriel Chávez
